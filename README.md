@@ -35,7 +35,8 @@ print(count)
 ~~~
 
 ### OUTPUT:
-![Screenshot 2024-01-02 235835](https://github.com/Pandurusomu/command-line-arguments-to-count-word/assets/148988619/215571cd-ece3-4dd0-91fe-1244919443d6)
+![image](https://github.com/Pandurusomu/command-line-arguments-to-count-word/assets/148988619/53df4832-7d96-46e2-8daa-a69154aa1aef)
+
 
 
 
